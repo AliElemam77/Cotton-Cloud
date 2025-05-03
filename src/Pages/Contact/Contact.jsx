@@ -1,6 +1,6 @@
 import React from 'react'
 import BreadCrumbs from '../../Components/BreadCrumb/index';
-import img from '../../Assets/Images/contact.png'
+import img from '../../assets/images/contact.png'
 export default function Contact() {
   return (
     <main className="container-fluid">
