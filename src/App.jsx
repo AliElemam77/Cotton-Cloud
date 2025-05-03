@@ -20,7 +20,7 @@ import Filter from "./Pages/Filter";
 import Contact from "./Pages/Contact/Contact";
 import Checkout from "./Pages/Checkout/index";
 import Blog from "./Pages/Blog/Blog";
-import BlogDetails from "./Pages/BlogDetails/BlogDetails.Jsx";
+import BlogDetails from "./Pages/BlogDetails/BlogDetails.jsx";
 import Profile from "./Pages/Profile/Profile";
 import ProfileInfo from "./Pages/Profile/ProfileInfo";
 import Orders from "./Pages/Profile/Orders";
