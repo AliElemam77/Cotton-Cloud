@@ -1,6 +1,6 @@
 import React from 'react'
 import BreadCrumbs from '../../Components/BreadCrumb/index';
-import img from '../../Assets/Images/placeholder.png'
+import img from '../../assets/Images/placeholder.png'
 
 export default function BlogDetails() {
     const posts = [
