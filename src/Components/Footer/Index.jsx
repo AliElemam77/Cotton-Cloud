@@ -4,7 +4,7 @@ import CopyRight from "./CopyRight";
 import ContactSection from "./ContactSection";
 import LinksSection from "./LinksSection";
 import AboutSection from "./AboutSection";
-import FooterMain from "./Footermain";
+import FooterMain from "./FooterMain";
 
 export default function Index() {
   return (
